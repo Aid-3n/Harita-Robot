@@ -1,12 +1,4 @@
 {
-   "addons": [
-      {
-         "options": {
-            "version": "12"
-         },
-         "plan": "heroku-postgresql"
-      }
-   ],
    "description": "Telegram group management bot.",
    "env": {
       "ALLOW_EXCL": {
